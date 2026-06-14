@@ -1,5 +1,5 @@
 # ARC-learning-notes
-Personal learning notes and research updates from ARC (AI &amp; Robotics Club), focusing on Physical AI, robotics, and embodied intelligence.
+Personal learning notes and research updates from ARC (AI &amp; Robotics Club), focusing on Physical AI, robotics and embodied intelligence.
 # ARC Learning Notes
 
 This repository contains my learning notes, research summaries, and project ideas from ARC (AI & Robotics Club).
