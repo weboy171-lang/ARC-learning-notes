@@ -1,21 +1,53 @@
-# ARC-learning-notes
-Personal learning notes and research updates from ARC (AI &amp; Robotics Club), focusing on Physical AI, robotics and embodied intelligence.
 # ARC Learning Notes
 
-This repository contains my learning notes, research summaries, and project ideas from ARC (AI & Robotics Club).
+Personal learning notes from ARC (AI & Robotics Club), focused on Physical AI, robotics, embodied intelligence and robot learning.
 
-## Topics
+## Current Focus
 
 - Physical AI
-- Robotics
 - Embodied Intelligence
-- Simulation
 - Robot Learning
+- Simulation
+- Sim-to-Real Transfer
+- Vision-Language-Action (VLA) Models
+- Data Collection Pipelines
 
-## Learning Log
+## Repository Structure
 
-### June 2026
+```
+.
+├── README.md
+├── robotics-notes.md
+├── simulation-notes.md
+├── vla-notes.md
+├── papers.md
+└── weekly-log.md
+```
 
-- Started organizing robotics and Physical AI notes.
-- Exploring sim-to-real transfer concepts.
-- Following ARC discussions and research topics.
+## Learning Goals
+
+- Understand modern robotics systems
+- Study embodied AI architectures
+- Learn robot data collection pipelines
+- Explore simulation environments
+- Follow ARC community discussions
+- Build simple robotics projects
+
+## Weekly Progress
+
+### July 2026
+
+- Reviewed Physical AI fundamentals.
+- Studied sim-to-real transfer challenges.
+- Learned how robot datasets improve policy learning.
+- Read discussions from ARC community.
+- Started collecting notes on VLA models.
+
+## Resources
+
+- ARC Docs
+- LeRobot
+- Hugging Face Robotics
+- NVIDIA Isaac Lab
+- OpenVLA
+- Pi0
