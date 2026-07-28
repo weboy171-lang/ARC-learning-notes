@@ -23,6 +23,7 @@ This repository is used to document key concepts, developer resources, and insig
 ```
 .
 ├── README.md
+├── arc-overview.md
 ├── arc-architecture.md
 ├── stablecoin-notes.md
 ├── app-kit-notes.md
